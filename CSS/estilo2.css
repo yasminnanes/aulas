@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+
+}
+#container{
+    width: 1050px;
+    height: 616px;
+    margin: 0 auto;
+}
+#banner{
+    width: 80%;
+    height: 178px;
+    background-color :coral;
+}
+#link{
+    width: 150px;
+    height: 800px;
+    background-color:gold;
+    margin-left: 0px;
+}
+#text{
+    width: 690px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 150px;
+    background-color:rgb(5, 219, 219);
+}
+#footer{
+    width: 79.5%;
+    height: 50px;
+    margin: 0 auto 200;
+    text-align: center;
+    border: solid;
+    color:lightsalmon;
+}
+#sangue{
+    width: 100%;
+    height: 178px;
+}
+#vídeo{
+    width: 80%;
+    height: 50%;
+    margin-left: 10%;
+}
